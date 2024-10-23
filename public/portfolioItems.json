@@ -1,0 +1,79 @@
+[
+  {
+    "image": "dev0.jpg",
+    "title": "Produto Exemplo 1",
+    "description": "Descrição do Produto Exemplo 1",
+    "category": "Figuras e Estatuetas",
+    "3D_Printer_Model": "Creality Ender 3",
+    "printing_time": "2 horas",
+    "materials": ["PLA", "PETG"],
+    "layer_height": "0.2 mm",
+    "filament_color": "Branco"
+  },
+  {
+    "image": "dev1.jpg",
+    "title": "Produto Exemplo 2",
+    "description": "Descrição do Produto Exemplo 2",
+    "category": "Peças Funcionais",
+    "3D_Printer_Model": "Prusa i3 MK3",
+    "printing_time": "1.5 horas",
+    "materials": ["PLA", "ABS"],
+    "layer_height": "0.15 mm",
+    "filament_color": "Vermelho"
+  },
+  {
+    "image": "dev2.jpeg",
+    "title": "Produto Exemplo 3",
+    "description": "Descrição do Produto Exemplo 3",
+    "category": "Acessórios para Casa",
+    "3D_Printer_Model": "Anycubic Photon",
+    "printing_time": "3 horas",
+    "materials": ["Resina UV"],
+    "layer_height": "0.05 mm",
+    "filament_color": "Transparente"
+  },
+  {
+    "image": "dev3.jpeg",
+    "title": "Produto Exemplo 4",
+    "description": "Descrição do Produto Exemplo 4",
+    "category": "Acessórios para Casa",
+    "3D_Printer_Model": "Anycubic Photon",
+    "printing_time": "3 horas",
+    "materials": ["Resina UV"],
+    "layer_height": "0.05 mm",
+    "filament_color": "Transparente"
+  },
+  {
+    "image": "dev4.jpeg",
+    "title": "Produto Exemplo 5",
+    "description": "Descrição do Produto Exemplo 5",
+    "category": "Acessórios para Casa",
+    "3D_Printer_Model": "Anycubic Photon",
+    "printing_time": "3 horas",
+    "materials": ["Resina UV"],
+    "layer_height": "0.05 mm",
+    "filament_color": "Transparente"
+  },
+  {
+    "image": "dev5.jpeg",
+    "title": "Produto Exemplo 6",
+    "description": "Descrição do Produto Exemplo 6",
+    "category": "Acessórios para Casa",
+    "3D_Printer_Model": "Anycubic Photon",
+    "printing_time": "3 horas",
+    "materials": ["Resina UV"],
+    "layer_height": "0.05 mm",
+    "filament_color": "Transparente"
+  },
+  {
+    "image": "dev1.jpg",
+    "title": "Produto Exemplo 6",
+    "description": "Descrição do Produto Exemplo 3",
+    "category": "Acessórios para Casa",
+    "3D_Printer_Model": "Anycubic Photon",
+    "printing_time": "3 horas",
+    "materials": ["Resina UV"],
+    "layer_height": "0.05 mm",
+    "filament_color": "Transparente"
+  }
+]
